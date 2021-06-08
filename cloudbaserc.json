@@ -12,6 +12,7 @@
                 "serviceName": "lsky-pro",
                 "servicePath": "/",
                 "localPath": "/",
+                "mode":"high-availability",
                 "uploadType": "package",
                 "containerPort": 80,
                 "volumeMounts": {
