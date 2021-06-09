@@ -72,7 +72,7 @@
 
 ### ☁️ 一键部署
 
-本项目支持一键部署至[腾讯云云开发](https://docs.cloudbase.net/) 详细配置可参考[文档](cloudbase\tcb_doc.md)
+本项目支持一键部署至[腾讯云云开发](https://docs.cloudbase.net/) 详细配置可参考[文档](/cloudbase/tcb_doc.md)
 
 [![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2FHandsomedoggy%2Flsky-pro&branch=master)
 
